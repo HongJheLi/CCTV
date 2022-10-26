@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CCTV/static/css/main.74a71c0c.css",
+    "main.js": "/CCTV/static/js/main.216dc2e2.js",
+    "static/js/787.8d828b91.chunk.js": "/CCTV/static/js/787.8d828b91.chunk.js",
+    "index.html": "/CCTV/index.html",
+    "main.74a71c0c.css.map": "/CCTV/static/css/main.74a71c0c.css.map",
+    "main.216dc2e2.js.map": "/CCTV/static/js/main.216dc2e2.js.map",
+    "787.8d828b91.chunk.js.map": "/CCTV/static/js/787.8d828b91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74a71c0c.css",
+    "static/js/main.216dc2e2.js"
+  ]
+}
